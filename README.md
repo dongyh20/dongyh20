@@ -1,7 +1,7 @@
 ### Hi there 👋
-🔭 I’m currently working on the topic of visual perception and my long-term goal is to build embodied fundation models.
+🔭 I’m currently working on the topic of visual perception and my long-term goal is to build general foundation models.
 
-⚡ Recently I'm focusing on vision-language model, embodied AI and 3D world model.
+⚡ Recently I'm focusing on vision-language model and unified visual models.
 
 📫 If you are also interested in relevant issues, feel free to chat with me! 
 <!--
